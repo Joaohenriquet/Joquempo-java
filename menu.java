@@ -1,7 +1,4 @@
 // Joao Henrique
-
-package joquempo;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
