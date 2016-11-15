@@ -1,5 +1,3 @@
-package joquempo;
-
 import java.awt.Menu;
 import java.util.ArrayList;
 import java.util.Scanner;
